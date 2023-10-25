@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    pad: 0;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+body{
+    background-image: url(img/BG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.header{
+    font-size: 50px;
+    text-shadow: 5px 5px 5px blueviolet;
+
+}
+.main{
+
+    text-align: center;
+    color: rgb(18, 10, 247);
+}
+.nav{
+    text-align: left;
+}
+
+.button{
+    border-style:groove;
+    color:blue;
+    background: transparent;
+    border-radius: 20px;
+    padding: 5px 20px;
+    border-color:black;
+}
